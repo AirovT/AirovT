@@ -13,7 +13,7 @@
         </a>
       </td>
       <td width="45%" align="center" style="border: none; vertical-align: middle;">
-        <img src="./assets/airov.gif" alt="Airov Animation" height="200" style="max-width: 100%;">
+        <img src="./assets/airovgif.gif" alt="Airov Animation" height="200" style="max-width: 100%;">
       </td>
     </tr>
   </table>
@@ -30,7 +30,7 @@
 
 ---
 
-## <img src="./assets/icono_airov.ico" width="35" height="35" style="vertical-align: bottom;"> About Me: Data-Driven Automation Expert
+## <img src="./assets/airov2.0.png" width="35" height="35" style="vertical-align: bottom;"> About Me: Data-Driven Automation Expert
 I am a **Mechatronics Engineer** with a deep passion for **innovation and automation**, focused on leveraging **Data Science** to solve complex engineering and business challenges. My expertise lies in transforming intricate datasets into clear, actionable insights.
 
 * **Core Skills:** Expert in **SQL and NoSQL** databases, proficient in **Python** and **R**.
