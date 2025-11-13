@@ -20,12 +20,12 @@
 </div>
 
 <p align="center">
-	<a href="https://github.com/AirovT">
-		<img src="https://komarev.com/ghpvc/?username=AirovT&label=Profile%20Views&color=D35400&style=flat" alt="profile views"/>
-	</a>
-	<a href="https://github.com/AirovT">
-		<img src="https://img.shields.io/github/followers/AirovT?label=Followers&color=F39C12" alt="followers"/>
-	</a>
+    <a href="https://github.com/AirovT">
+        <img src="https://komarev.com/ghpvc/?username=AirovT&label=Profile%20Views&color=D35400&style=flat" alt="profile views"/>
+    </a>
+    <a href="https://github.com/AirovT">
+        <img src="https://img.shields.io/github/followers/AirovT?label=Followers&color=F39C12" alt="followers"/>
+    </a>
 </p>
 
 ---
@@ -196,21 +196,29 @@ I use a powerful combination of programming languages, data science frameworks, 
 
 </div>
 
-
-## 📬 Connect with Me
+<br>
+<div align="center">
+  <h2>📂 Featured Portfolio</h2>
+  <p>Check out my main Data Science repository featuring end-to-end analysis and ML models.</p>
+  <a href="https://github.com/AirovT/Portafolio-Data-Science">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AirovT&repo=Portafolio-Data-Science&theme=tokyonight&border_radius=10&show_owner=false" alt="Portafolio Data Science" />
+  </a>
+</div>
+<br>
+<h3>📬 Connect with Me</h3> 
 
 Let's collaborate on innovative Data Science, Automation, and Machine Learning projects!
 
 <p align=center>
-    <a href="https://github.com/AirovT" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.svg" alt="GitHub" style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://www.linkedin.com/in/jairot0" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/linkedin.svg" alt="LinkedIn" style="margin-bottom: 5px;" />
-    </a>
-    <a href="mailto:jvtorresmct@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt="Email" style="margin-bottom: 5px;" />
-    </a>
+    <a href="https://github.com/AirovT" target="_blank">
+        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.svg" alt="GitHub" style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://www.linkedin.com/in/jairot0" target="_blank">
+        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/linkedin.svg" alt="LinkedIn" style="margin-bottom: 5px;" />
+    </a>
+    <a href="mailto:jvtorresmct@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt="Email" style="margin-bottom: 5px;" />
+    </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
